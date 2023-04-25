@@ -1,0 +1,12 @@
+E:\Dev\Projects\Auctions\Auctions.Applications\bin\Debug\net7.0\Auctions.Applications.deps.json
+E:\Dev\Projects\Auctions\Auctions.Applications\bin\Debug\net7.0\Auctions.Applications.dll
+E:\Dev\Projects\Auctions\Auctions.Applications\bin\Debug\net7.0\Auctions.Applications.pdb
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\Auctions.Applications.csproj.AssemblyReference.cache
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\Auctions.Applications.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\Auctions.Applications.AssemblyInfoInputs.cache
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\Auctions.Applications.AssemblyInfo.cs
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\Auctions.Applications.csproj.CoreCompileInputs.cache
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\Auctions.Applications.dll
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\refint\Auctions.Applications.dll
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\Auctions.Applications.pdb
+E:\Dev\Projects\Auctions\Auctions.Applications\obj\Debug\net7.0\ref\Auctions.Applications.dll

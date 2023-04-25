@@ -1,0 +1,12 @@
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\bin\Debug\net7.0\Auctions.Infrastructure.deps.json
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\bin\Debug\net7.0\Auctions.Infrastructure.dll
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\bin\Debug\net7.0\Auctions.Infrastructure.pdb
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\Auctions.Infrastructure.csproj.AssemblyReference.cache
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\Auctions.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\Auctions.Infrastructure.AssemblyInfoInputs.cache
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\Auctions.Infrastructure.AssemblyInfo.cs
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\Auctions.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\Auctions.Infrastructure.dll
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\refint\Auctions.Infrastructure.dll
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\Auctions.Infrastructure.pdb
+E:\Dev\Projects\Auctions\Auctions.Infrastructure\obj\Debug\net7.0\ref\Auctions.Infrastructure.dll

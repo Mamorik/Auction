@@ -1,0 +1,12 @@
+E:\Dev\Projects\Auctions\Auctions.Database\bin\Debug\net7.0\Auctions.Database.deps.json
+E:\Dev\Projects\Auctions\Auctions.Database\bin\Debug\net7.0\Auctions.Database.dll
+E:\Dev\Projects\Auctions\Auctions.Database\bin\Debug\net7.0\Auctions.Database.pdb
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\Auctions.Database.csproj.AssemblyReference.cache
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\Auctions.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\Auctions.Database.AssemblyInfoInputs.cache
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\Auctions.Database.AssemblyInfo.cs
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\Auctions.Database.csproj.CoreCompileInputs.cache
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\Auctions.Database.dll
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\refint\Auctions.Database.dll
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\Auctions.Database.pdb
+E:\Dev\Projects\Auctions\Auctions.Database\obj\Debug\net7.0\ref\Auctions.Database.dll
